@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14045428-f244-4eb8-a85a-fd7dc0689179" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XURKmTU6h2ag18VHgN7yWCazdL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.SQL" />
+  </component>
+  <component name="RunManager" selected="Gradle.Tests in 'spring-boot-apirest'">
+    <configuration name="Tests in 'spring-boot-apirest'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests *" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringBootApirestApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-apirest.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.usuario.apirest.SpringBootApirestApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Tests in 'spring-boot-apirest'" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14045428-f244-4eb8-a85a-fd7dc0689179" name="Default Changelist" comment="" />
+      <created>1581098624913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581098624913</updated>
+      <workItem from="1581098630521" duration="10720000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1368" y="180" key="#Assign_Data_Sources" timestamp="1581101853983">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="180" key="#Assign_Data_Sources/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101853983" />
+    <state x="-1368" y="180" key="#Inspections" timestamp="1581101378404">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1368" y="180" key="#Inspections/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101378404" />
+    <state x="-1155" y="206" key="#com.intellij.ide.util.MemberChooser" timestamp="1581107231535">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1155" y="206" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581107231535" />
+    <state x="-1263" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1581101934185">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1263" y="447" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101934185" />
+    <state x="-1164" y="402" width="524" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1581101985328">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1164" y="402" width="524" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101985328" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1581105077678">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581105077678" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1581105077677">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581105077677" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1581105077677">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581105077677" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1581105077678">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581105077678" />
+    <state x="-1459" y="164" key="SettingsEditor" timestamp="1581101305027">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1459" y="164" key="SettingsEditor/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101305027" />
+    <state x="-1196" y="240" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1581101129975">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1196" y="240" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101129975" />
+    <state x="-1297" y="226" width="672" height="678" key="search.everywhere.popup" timestamp="1581101302598">
+      <screen x="-1920" y="1" width="1920" height="1040" />
+    </state>
+    <state x="-1297" y="226" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1920.1.1920.1040@-1920.1.1920.1040" timestamp="1581101302598" />
+  </component>
+</project>
